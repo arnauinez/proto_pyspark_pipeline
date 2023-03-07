@@ -1,0 +1,6 @@
+{
+    "0": "spark_consumptions.py",
+    "1": "spark_correlations.py",
+    "2": "spark_cluster_consumption_classification.py",
+    "3": "spark_cluster_censo_classification.py"
+}
